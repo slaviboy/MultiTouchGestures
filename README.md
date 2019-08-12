@@ -15,7 +15,7 @@ allprojects {
 Add the dependency
 ```
 dependencies {
-  implementation 'com.github.slaviboy:MultiTouchGestures:0.1.0'
+  implementation 'com.github.slaviboy:MultiTouchGestures:v0.1.0'
 }
 ```
 
